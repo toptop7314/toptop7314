@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with CI/CD Labs
 - 💬 Ask me about Cloud Engineering
 - 📫 How to reach me: stelvisco@gmail.com
-- ⚡ Fun fact: love Sports, Football, Musics, Reading & Technolog
+- ⚡ Fun fact: love Sports, Football, Musics, Reading & Technology
 
